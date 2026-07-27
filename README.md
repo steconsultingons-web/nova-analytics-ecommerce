@@ -1,4 +1,3 @@
-# nova-analytics-ecommerce
 # NovaAnalytics E-commerce Analytics
 
 ## Project Overview
